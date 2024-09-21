@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jesko Förster</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Designing Tomorrow's Solutions. Today.</h3>
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **kubernetes**
 
 - 👯 I’m looking to collaborate on **cloud architectures AWS, GCP and Azure**
 
-- 📝 I regularly write articles on [cloud architectures](cloud architectures)
+- 📝 I regularly write articles on **cloud architectures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
